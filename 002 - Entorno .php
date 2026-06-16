@@ -1,6 +1,7 @@
 
 
 
+<?php
 /*
  * =====================================================================================
  * TEMA: Introducción al Lenguaje PHP
@@ -10,13 +11,13 @@
  * OBJETIVO DEL VIDEO:
  * Comprender los fundamentos del lenguaje PHP, el entorno de trabajo necesario
  * para su ejecución y la ruta de aprendizaje orientada al desarrollo de
- * aplicaciones web dinámicas mediante operaciones CRUD.
+ * aplicaciones web dinámicas mediante operaciones CRUD
  *
  * DESCRIPCIÓN:
  * PHP es un lenguaje de programación interpretado del lado del servidor,
  * de código abierto, gratuito, utilizado para el desarrollo de aplicaciones
  * web dinámicas, cuya principal característica es su capacidad de incrustarse
- * directamente en el lenguaje HTML.
+ * directamente en el lenguaje HTML
  *
  * CONTENIDO DEL CURSO:
  * 1. Conceptos básicos
@@ -28,17 +29,18 @@
  * 7. Manejo de sesiones
  * 8. Temas complementarios
  *
+ * ENTORNO REQUERIDO:
+ * Servidor local : Laragon, XAMPP o similar
+ * Editor         : Cursor, Visual Studio Code o equivalente
+ * Navegador      : Chrome, Firefox o similar
+ *
  * REFERENCIA:
- * Curso   : CURSO de PHP desde CERO - 01 ¿Que es y para que SIRVE el LENGUAJE de programacion PHP?
+ * Curso   : Curso de PHP desde cero - 01 ¿Qué es y para que sirve el lenguaje de programación PHP?
  * Autor   : Carlos Alfaro.
  * Apuntes : @galaxiahfast.
  * URL     : https://www.youtube.com/watch?v=lLsyzBggW_o
- *
- * ENTORNO REQUERIDO:
- * Servidor local : Laragon, XAMPP o similar.
- * Editor         : Cursor, Visual Studio Code o equivalente.
- * Navegador      : Chrome, Firefox o similar.
  * =====================================================================================
  */
+?>
 
 
